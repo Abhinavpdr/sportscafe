@@ -1,0 +1,349 @@
+body{
+	margin: 0;
+	width: 1343px
+}
+.header{
+	width: 100%;
+	height: 50px;
+	background-color: #782634;
+}
+.name{
+	padding-top: 1px;
+	color: white;
+	padding-left: 30px;
+	width: 200px;
+	height: 50px;
+	float: left;
+}
+.sign-div{
+	float: right;
+	height: 50px;
+	width: 20%;
+	color: white;
+}
+.menu{
+	width: 100%;
+	height: 60px;
+	padding-left: 20px;
+	
+}
+.menu menu-home-div:hover{
+	background-color: #782634;
+}
+.menu-home-div{
+	width: 50px;
+	color:#782634;
+	float: left;
+	margin-left: -128px;
+
+}
+.menu-home-div a{
+	color:#782634;
+	text-decoration: none;
+	width: 100%;
+	height: 100%;
+}
+.menu-home-div a:hover{
+	color: black;
+}
+
+.menu-menucontent-div{
+	float: left;
+	margin-right: 28.7px;
+	width: 140px;
+	
+	text-align: center;
+	margin-left: -10PX;
+}
+.menu-menucontent-div a{
+	color: black;
+	text-decoration: none;
+}
+.menu-menucontent-div a:hover{
+	color: blue;
+	
+}
+.menu-l{
+	width: 10px;
+	height: 100%;
+	float: left;
+	background-color: #782634;
+	margin-left: -230px;
+}
+.menu-r{
+	width: 10px;
+	height: 100%;
+	background-color: #782634;
+	margin-left: -8px;
+	float: LEFT;
+}
+.bottom-div{
+	background-color: #782634;
+	width: 100%;
+	height: 10px;
+	
+}
+
+
+
+/* left menu */
+.left-div{
+	height: 1260px;
+	float: left;
+	width: 25%;
+	/*background-color: green;*/
+	padding: 20px;
+}
+.left-inner-div{
+	background-color: white;
+	width: 100%;
+	height: auto;
+	padding: 0;
+	border-radius: 25px;
+	overflow: hidden;
+	box-shadow:0 0 10px;
+}
+li{
+	height: auto;
+	width: 306px;
+	
+}
+ul{
+	list-style-type: none;
+	padding: 0;
+}
+#ucl-logo{
+padding-left: 116px;
+}
+.styled__ImageStyled-sc-17v9b6o-00{
+	padding-left: 123px;
+}
+.UL1 li img , .special_ul li a{
+    display:block;
+}
+.imso_btl__mh-logo{
+	float: left;
+	margin-left: 62px;
+	
+}
+.hr{
+	width: 80%;
+}
+.logo-li{
+	padding-left: 26px;
+	width: 100%;
+	text-align: center;
+}
+.logo-li-laliga{
+	width: 100%;
+	text-align: center;
+}
+li a{
+	text-decoration: none;
+}
+li a:hover{
+	background-color: aqua;
+}
+.score{
+	height: 50px;
+	width: 338px;
+	padding-top: 10px;
+}
+.score:hover{
+	background-color: aqua;
+
+}
+#ucl-logo{
+	float: left;
+}
+.score-board {
+    background: #37003c;
+    color: #fff;
+    padding: 0;
+    line-height: 2rem;
+    font-size: 1rem;
+    min-width: 4.6rem;
+    text-align: center;
+    font-family: PremierSans-Bold,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 400;
+	float: left;
+	margin-left: 35px;
+	margin-right: 35px;
+	border-radius: 10px;
+}
+.leage-logo{
+	height: 50px;
+	width: 338px;
+}
+
+#PremierLeague-Logo{
+	padding-left: 90px;
+}
+.laliga-logo{
+	width: 338px;
+	padding-left: 8px;
+}
+.styled__ImageStyled-sc-17v9b6o-0{
+padding-left: 116px;
+}
+
+
+
+
+
+/* CONTENT */
+.content-div{
+	margin-left: 28%;
+	width: 938px;
+	height: 1260px;
+	/*background-color: aqua;*/
+}
+.content-image-div{
+	border-radius: 5px;
+	background-color: aquamarine;
+	width: 306px;
+	height: 210px;
+	float: left;
+	overflow: hidden;
+	margin-bottom: 10px;
+
+}
+.2nd-div-para-div{
+  width: 306px;
+  height: 50px;
+  float: left;
+  background-color: black;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+.px{
+margin-right: 10px;
+}
+.border-zoom{
+	transition: 0.5s;
+}
+.border-zoom:hover{
+	transform: scale(1.2);
+}
+.ad{
+	float: right;
+}
+.main-image-div{
+	width: 700px;
+	height: 350px;
+	background-color: #782634;
+	border-radius: 10px;
+	overflow: hidden;
+	float: left;
+	position: relative;
+	margin-bottom: 25px;
+	
+
+}
+.main-image{
+	width: 699px;
+	height: 395px;
+}
+.inline-text-div{
+	width: 650px;
+	height: 200px;
+	margin-left: 10px;
+	position: absolute;
+	margin-top: -210px;
+}
+.inline-text{
+	font-family: arial black;
+	color: white;
+	padding-left: 10px;
+	position: absolute;
+	
+	font-size: 30px;
+	text-shadow: black;
+
+}
+.content-adskip-div{
+	width: 750px;
+	
+	height: auto;
+	float: left;
+}
+.para-div{
+	background-color: blue;
+}
+
+.float-right{
+	float: right;
+	padding-right: 26px;
+}
+p{
+	font-size: 19px;
+}
+.article-thumb__img{
+	width: 306px;
+	height: 212px;
+}
+
+
+
+
+
+
+
+/* footer */
+.footer-div{
+	background-color: black;
+	width: 1343px;
+	height: 300px;
+	padding-top: 5px;
+}
+.brand-name-div{
+	margin-left: 8px;
+	margin-right: 10px;
+	background-color: white;
+	width: 1323px;
+	height: 100px;
+}
+.pre-logo-svg{
+	padding-left: 15px;
+	float: left;
+	padding-top: 10px;
+	margin-right: 33px;
+	/*background-color: #782634;*/
+}
+.pre-logo-svg-extra{
+	margin-right: 5px;
+}
+.textstyle{
+	color: white;
+	width: 100%;
+	text-align: center;
+	align-content: center;
+	
+}
+.microsoft{
+	padding-top: 20px;
+}
+
+.logos-div{
+	background-color: white;
+	border-radius: 20px;
+	width: 300px;
+	margin-left: 520px;
+	padding-left: 70px;
+	
+
+}
+.logo-socialmedia{
+	float: left;
+	margin: 10px;
+	margin-top: 0;
+}
+.T75of{
+	border-radius: 5px;
+	height: 30px;
+	width: 30px;
+	transition: 0.4s;
+}
+.T75of:hover{
+	transform: scale(1.2);
+}
